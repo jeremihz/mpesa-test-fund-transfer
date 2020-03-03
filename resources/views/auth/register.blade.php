@@ -48,7 +48,7 @@
           @endif
         <div class="card">
             <div class="card-header">
-                <h2 class="mb-2 ">ZEGETECH</h2>
+                <h2 class="mb-2 ">jere</h2>
                 <p>Please enter your user information.</p>
             </div>
             <div class="card-body">
